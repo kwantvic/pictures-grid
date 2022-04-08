@@ -1,0 +1,20 @@
+.wrapper {
+  .card {
+    max-width: 345px;
+    min-height: 300px;
+  }
+
+  .cardActionArea {
+    cursor: auto;
+  }
+
+  .cardMedia {
+    height: 140px;
+  }
+
+  .icon {
+    color: #1C77D1;
+    transform: scale(1.5);
+    margin-left: auto;
+  }
+}

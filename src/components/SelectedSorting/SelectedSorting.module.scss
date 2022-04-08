@@ -1,0 +1,15 @@
+@import "../../scss/mixins";
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p {
+    padding-right: 10px;
+  }
+
+  .select {
+    width: 160px;
+  }
+}

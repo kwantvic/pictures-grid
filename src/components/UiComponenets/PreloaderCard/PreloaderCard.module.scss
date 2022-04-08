@@ -1,0 +1,42 @@
+.wrapper {
+  .card {
+    width: 345px;
+
+    .skeletonHeader {
+      height: 30px;
+      width: 100%;
+      margin-bottom: 3px;
+    }
+
+    .skeletonSubHeader {
+      height: 16px;
+      width: 40%;
+    }
+
+    .skeletonImg {
+      height: 139px;
+      margin: 0 10px;
+    }
+
+    .footer {
+      display: flex;
+      height: 50px;
+
+      .skeletonBtn1 {
+        width: 60px;
+        margin-left: 10px;
+      }
+
+      .skeletonBtn2 {
+        width: 110px;
+        margin-left: 35px;
+      }
+
+      .skeletonIcon {
+        width: 25px;
+        margin-left: auto;
+      }
+
+    }
+  }
+}
